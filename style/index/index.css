@@ -1,3 +1,4 @@
+/* Header */
 header {
   padding: 1rem;
   color: cadetblue;
@@ -6,4 +7,14 @@ header {
 
 header h1 {
   background: none;
+}
+
+/* Main */
+main {
+  padding: 1rem;
+}
+
+/* Footer */
+footer {
+  padding: 1rem;
 }/*# sourceMappingURL=index.css.map */
